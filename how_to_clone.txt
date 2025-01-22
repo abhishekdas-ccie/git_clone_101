@@ -1,0 +1,1 @@
+This document covers how to clone an existing repository using git clone.
